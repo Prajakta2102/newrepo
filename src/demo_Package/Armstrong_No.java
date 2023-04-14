@@ -15,7 +15,7 @@ public class Armstrong_No
 	  }
 	  if(i==sum)
 	  {
-		  System.out.println(i + " no is armstrong no");
+		  System.out.println(i + " no is  a armstrong no");
 	  }
 	  else
 	  {
